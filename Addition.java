@@ -10,6 +10,9 @@ public class Addition
 		System.out.println("\n\nEnter First Number : ");
 		int x=in.nextInt();
 		System.out.println("\n\nEnter Second Number");
+		System.out.println("\n\nEnter Second Number");
+		System.out.println("\n\nEnter Second Number");
+		System.out.println("\n\nEnter Second Number");
 		int y=in.nextInt();
 		System.out.println("\nAns: "+(x+y));
 		in.close();
