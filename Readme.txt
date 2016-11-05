@@ -1,1 +1,0 @@
-This is the multiplication feature of calculator application which prompt user to enter 2 numbers and produce their product
