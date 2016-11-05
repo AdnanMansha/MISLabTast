@@ -20,6 +20,7 @@ public class Addition
 	{
 		System.out.println("\n\t\tCalcualtor");
 		addition();
+		System.out.println("End of the Program");
 		
 	}
 
