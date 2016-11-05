@@ -8,6 +8,7 @@ public class Addition
 	{
 		Scanner in=new Scanner(System.in);
 		System.out.println("\n\nEnter First Number : ");
+		System.out.println("\n\nEnter First Number : ");
 		int x=in.nextInt();
 		System.out.println("\n\nEnter Second Number");
 		int y=in.nextInt();
